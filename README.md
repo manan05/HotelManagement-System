@@ -10,7 +10,7 @@
 ![room availability](https://github.com/manan05/HotelManagement-System/blob/master/Images/room-availability.png)
 
 #### Book Room
-![book room](https://github.com/manan05/HotelManagement-System/tree/master/Images/book-room.png)
+![book room](https://github.com/manan05/HotelManagement-System/blob/master/Images/book-room.png)
 
 #### Order Food
 ![food order](https://github.com/manan05/HotelManagement-System/blob/master/Images/order-food.png)
