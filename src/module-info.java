@@ -1,0 +1,3 @@
+module HotelManagement {
+	exports Project;
+}
